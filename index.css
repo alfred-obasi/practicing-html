@@ -1,0 +1,157 @@
+.backg{
+    background: rgba(0, 0, 0, 0.021);
+    display: flex;
+    flex-direction: row;
+    border-radius: 5%;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+}
+.backg .first{
+    background: rgb(23, 23, 190);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    padding: 0%;
+    border-radius: 4%;
+    width: 50vw;
+    height: 70vh;
+}
+.first .result{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+}
+.first .circle{
+    display: flex;
+    border-radius: 100%;
+    background-color: rgb(10, 10, 165);
+    justify-content: center;
+    flex-direction: column;
+    width: 20%;
+    height: 20%;
+    margin: auto;
+}
+.circle .seven{
+    font-size: 40px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: none;
+}
+/*.circle .ofh{
+    font-size: 10px;
+    margin:none ;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}*/
+.seven span{
+    font-size: 10px;
+    margin: none;
+    color: rgba(255, 255, 255, 0.253);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.first .great{
+    color:whitesmoke;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.first h6{
+    color: rgba(255, 255, 255, 0.596);
+}
+.backg .second{
+    display: flex;
+    flex-direction: column;
+    border-radius: 5%;
+    background-color: white;
+    justify-content: center;
+    padding-bottom: 100;
+    width: 50vw;
+    height: 70vh;
+    border-bottom: bold;
+}
+.second .sum{
+    display: flex;
+    width: 20vw;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.671);
+    font-weight: bolder;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.second .react{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 6%;
+    margin: auto;
+    background-color: rgba(255, 192, 203, 0.055);
+    width: 35vw
+}
+.react .re{
+    color: red;
+}
+.react .span{
+    font-weight: bolder;
+}
+.react p{
+    font-weight: lighter;
+}
+.second .memo{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 6%;
+    margin: auto;
+    background-color: rgba(255, 192, 203, 0.089);
+    width: 35vw;
+}
+.memo .reat{
+    color:yellow;
+}
+.memo .span{
+    font-weight: bolder;
+}
+.memo p{
+    font-weight: lighter;
+}
+.second .verb{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 6%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.027);
+    width: 35vw;
+}
+.verb .rea{
+    color: green;
+}
+.verb .span{
+    font-weight: bolder;
+}
+.verb p{
+    font-weight: lighter;
+}
+.second .vis{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 6%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.089);
+    width: 35vw;
+}
+.vis .reaty{
+    color: blue;
+}
+.vis .span{
+    font-weight: bolder;
+}
+.vis p{
+    font-weight: lighter;
+}
+.second .last{
+    background-color: rgba(0, 0, 0, 0.774);
+    text-align: center;
+    margin: auto;
+    color: white;
+    width: 80%;
+    border-radius: 30%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
